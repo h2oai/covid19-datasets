@@ -25,6 +25,8 @@ Collection of open source datasets available for COVID-19 reasearch / analysis
 * [COVID-19 cases in Brazil - Kaggle dataset](https://www.kaggle.com/unanimad/corona-virus-brazil)
 * [COVID-19 cases in Switzerland - Kaggle dataset](https://www.kaggle.com/daenuprobst/covid19-cases-switzerland)
 * [COVID-19 cases in Indonesia - Kaggle dataset](https://www.kaggle.com/ardisragen/indonesia-coronavirus-cases)
+* [COVID-19 cases in Spain - Kaggle dataset](https://www.kaggle.com/panosc/covid19-data-for-spain-at-regional-level)
+* [COVID-19 cases in Russia - Kaggle dataset](https://www.kaggle.com/kapral42/covid19-russia-regions-cases)
 
 ## Computer Vision
 * [COVID-19 database on Italian radiological cases](https://www.sirm.org/category/senza-categoria/covid-19/)
