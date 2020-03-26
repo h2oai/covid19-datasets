@@ -32,4 +32,6 @@ Collection of open source datasets available for COVID-19 reasearch / analysis
 
 ## Natural Language Processing
 * [Open patent dataset on COVID-19 - lens.org](https://about.lens.org/covid-19/)
+* [WHO database of publications on COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
+* [LitCOVID dataset](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
 * [Tweet IDs related to COVID-19](https://github.com/echen102/COVID-19-TweetIDs)
