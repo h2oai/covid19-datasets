@@ -6,6 +6,7 @@ Collection of open source datasets available for COVID-19 reasearch / analysis
 * [JHU CSSE dataset on COVID-19 cases](https://github.com/CSSEGISandData/COVID-19)
 * [COVID-19 Open Research Dataset](https://pages.semanticscholar.org/coronavirus-research)
 * [Daily level Kaggle dataset on COVID-19 cases](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+* [COVID-19 genome sequence](https://www.kaggle.com/paultimothymooney/coronavirus-genome-sequence)
 * [Doctors and Nurses in each country](https://www.kaggle.com/antgoldbloom/doctors-and-nurses-per-1000-people-by-country)
 
 ## Country level information
@@ -22,4 +23,8 @@ Collection of open source datasets available for COVID-19 reasearch / analysis
 * [COVID-19 cases in Indonesia](https://www.kaggle.com/ardisragen/indonesia-coronavirus-cases)
 
 ## Computer Vision
-* [COVID-19 database on Italian Radiological Cases](https://www.sirm.org/category/senza-categoria/covid-19/)
+* [COVID-19 database on Italian radiological cases](https://www.sirm.org/category/senza-categoria/covid-19/)
+* [Chest X-ray and CT images of COVID-19 cases](https://github.com/ieee8023/covid-chestxray-dataset)
+
+## Natural Language Processing
+* [Open patent dataset on COVID-19](https://about.lens.org/covid-19/)
