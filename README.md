@@ -15,6 +15,7 @@ Collection of open source datasets available for COVID-19 reasearch / analysis
 ### United States
 * [Number of cases and tests in US - Covid Tracking](https://covidtracking.com/data/)
 * [Number of US cases - Kaggle dataset](https://www.kaggle.com/sudalairajkumar/covid19-in-usa)
+* [Hospital capacity at state level](https://docs.google.com/spreadsheets/d/1XUVyZF3X_4m72ztFnXZFvDKn5Yys1aKgu2Zmefd7wVo/edit#gid=0)
 * [Number of ICU beds in each county - Kaggle dataset](https://www.kaggle.com/jaimeblasco/icu-beds-by-county-in-the-us)
 
 ### Other Nations
