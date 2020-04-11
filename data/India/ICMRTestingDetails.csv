@@ -1,0 +1,17 @@
+﻿SNo,DateTime,TotalSamplesTested,TotalIndividualsTested,TotalPositiveCases,Source
+1,13/03/20 0:00,6500,5900,78,Press_Release_ICMR_13March2020.pdf
+2,18/03/20 18:00,13125,12235,150,ICMR_website_update_18March_6PM_IST.pdf
+3,19/03/20 10:00,13316,12426,168,ICMR_website_update_19March_10AM_IST_V2.pdf
+4,19/03/20 18:00,14175,13285,182,ICMR_website_update_19March_6PM_IST.pdf
+5,20/03/20 10:00,14376,13486,206,ICMR_website_update_20March_10AM_IST.pdf
+6,20/03/20 18:00,15404,14514,236,ICMR_website_update_20March_6PM_IST.pdf
+7,21/03/20 10:00,15701,14811,271,ICMR_website_update_21March_10AM_IST.pdf
+8,21/03/20 18:00,16911,16021,315,ICMR_website_update_21March_6PM_IST.pdf
+9,22/03/20 10:00,16999,16109,341,ICMR_website_update_22March_10AM_IST.pdf
+10,22/03/20 18:00,18127,17237,396,ICMR_website_update_22March_6PM_IST.pdf
+11,23/03/20 10:00,18383,17493,415,ICMR_website_update_23March_10AM_IST.pdf
+12,23/03/20 20:00,20707,19817,471,ICMR_website_update_23March_8PM_IST.pdf
+13,24/03/20 10:00,20864,19974,482,ICMR_website_update_24March_10AM_IST.pdf
+14,24/03/20 20:00,22694,21804,536,ICMR_website_update_24March_8PM_IST.pdf
+15,25/03/20 10:00,22928,22038,539,ICMR_website_update_25March_10AM_IST.pdf
+16,25/03/20 20:00,25144,24254,581,ICMR_website_update_25March_8PM_IST.pdf
