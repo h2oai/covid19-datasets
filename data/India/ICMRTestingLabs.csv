@@ -13,6 +13,7 @@
 "Jorhat Medical College, Jorhat","Jorhat Medical College, Jorhat Kushal Konwar Path, Barbheta, Jorhat, Assam 785001",785001,Jorhat,Assam,Government Laboratory
 "Silchar Medical College, Silchar","Silchar Medical College, Silchar Ghungoor Road, beside Indian Post, Masimpur, Uttar Krishnapur Pt III, Assam 788014",788014,Silchar,Assam,Government Laboratory
 "Fakhruddin Medical College, Barpeta","Fakhruddin Medical College, Barpeta-Hospital-Jania Rd, Joti Gaon, Assam 781301",781301,Barpeta,Assam,Government Laboratory
+"Tezpur Medical College and Hospital, Tezpur","Tezpur Medical College. Bihaguri, Tezpur 784010, Assam, India",784010,Tezpur,Assam,Government Laboratory
 "Rajendra Memorial Research Institute of Medical Sciences, Patna","Rajendra Memorial Research Institute of Medical Sciences, Sadikpur, Patna, Bihar 800007",800007,Patna,Bihar,Government Laboratory
 "Indira Gandhi Institute of Medical Sciences, Patna","Indira Gandhi Institute of Medical Sciences, Allahabad bank, Bailey Rd, Sheikhpura, Patna, Bihar 800014",800014,Patna,Bihar,Government Laboratory
 "Patna Medical College, Patna","Patna Medical College, Ashok Rajpath, Patna University Campus, Patna, Bihar 800001",800001,Patna,Bihar,Government Laboratory
@@ -21,6 +22,7 @@
 "All India Institute of Medical Sciences (AIIMS), Patna","All India Institute of Medical Sciences, Phulwarisharif, Patna, Bihar 801507, India",801507,Patna,Bihar,Government Laboratory
 "Post Graduate Institute of Medical Education & Research, Chandigarh","Post Graduate Institute of Medical Education & Research, Chandigarh, Madhya Marg, Sector 12, Chandigarh, 160012",160012,Chandigarh,Chandigarh,Government Laboratory
 "Government Medical College & Hospital, Chandigarh","Government Medical College & Hospital, Chandi Path, Sector 32B, 32B, Sector 32, Chandigarh, 160047",160047,Chandigarh,Chandigarh,Government Laboratory
+"CSIR - Institute of Microbial Technology, Chandigarh","CSIR - Institute of Microbial Technology, Sector 39A, Chandigarh, 160036, India",160036,Chandigarh,Chandigarh,Government Laboratory
 "All India Institute of Medical Science (AIIMS), Raipur","All India Institute of Medical Science (AIIMS), Great Eastern Rd, AIIMS Campus, Tatibandh, Raipur, Chhattisgarh 492099",492099,Raipur,Chhattisgarh,Government Laboratory
 "Late Baliram Kashyap M Govt. Medical College, Jagdalpur","Late Baliram Kashyap M Govt. Medical College, Dimrapal, Jagdalpur, Chhattisgarh 494001",494001,Jagdalpur,Chhattisgarh,Government Laboratory
 Pt J.N.M. Medical College Raipur,"Pt. Jawahar Lal Nehru Memorial Medical College, Jail Road, Raipur, Chhattisgarh 492001, India",492001,Raipur,Chhattisgarh,Government Laboratory
@@ -42,6 +44,7 @@ Pt J.N.M. Medical College Raipur,"Pt. Jawahar Lal Nehru Memorial Medical College
 "Prognosis Laboratories, New Delhi","Prognosis Laboratories, 515-516, behind Gupta Properties, Close to Welcome Hotel (ITC, Sector 19, Pocket 1, Dwarka, New Delhi, Delhi 110075",110075,New Delhi,Delhi,Private Laboratory
 "City x-Ray & Scan Clinic Pvt. Ltd., New Delhi","City X Ray & Scan Clinic Pvt. Ltd., Molecular Laboratory, Third Floor,City Imaging Building, 4B/18, Tilak Nagar, Near haldiram, New Delhi 110018",110018,New Delhi,Delhi,Private Laboratory
 "Lifeline Laboratory, New Delhi","Lifeline Laboratory, H-11, Green Park Extension, New Delhi, Delhi 110016",110016,New Delhi,Delhi,Private Laboratory
+"Department of Laboratory Services, Dr. B.L. Kapur Memorial Hospital New Delhi","Department of Laboratory Services, Dr. B.L. Kapur Memorial Hospital, 5, Pusa Road, New Delhi-110005, India",110005,New Delhi,Delhi,Private Laboratory
 "BJ Medical College, Ahmedabad","B j medical college, Asarwa, Civil Hospital Campus, Ahmedabad, Gujarat 380016",380016,Ahmedabad,Gujarat,Government Laboratory
 "M. P. Shah Govt Medical College, Jamnagar","M.P. Shah Govt Medical College, Pandit Nehru Marg, Indradeep Society, Jamnagar, Gujarat 361008",361008,Jamnagar,Gujarat,Government Laboratory
 "Government Medical College, Surat","Government Medical College, Opp Income Tax Department Office, Majura Gate, Surat, Gujarat 395001",395001,Surat,Gujarat,Government Laboratory
@@ -50,6 +53,8 @@ Pt J.N.M. Medical College Raipur,"Pt. Jawahar Lal Nehru Memorial Medical College
 "Government Medical College, Rajkot","Government Medical College, Pandit Dindayal Upadhyay Medical College, Sadar Civil Hospital Campus, Rajkot, Gujarat 360001",360001,Rajkot,Gujarat,Government Laboratory
 "Smt. NHL Municipal Medical College, Ahmedabad","Smt. NHL Municipal Medical College, Pritan Rai Cross Road, Ellise Bridge, Paldi, Ahmedabad, Gujarat 380006, India",380006,Ahmedabad,Gujarat,Government Laboratory
 "GMERS Medical Collage, Ahmedabad","GMERS Medical Collage, Sola, S.G. Highway, Ahmedabad, Gujarat 380060, India",380060,Ahmedabad,Gujarat,Government Laboratory
+"ICMR-National Institute of Occupational Health, Ahmedabad","ICMR-National Institute of Occupational Health, Meghani Nagar, Ahmedabad-380016, Gujarat, India",380016,Ahmedabad,Gujarat,Government Laboratory
+"Surat Municipal Institute of Medical Education & Research, Surat","Surat Municipal Institute of Medical Education & Research, Near Sahara Darwaja, Opposite to Bombay Market, Umarwada, Surat- 395010 Gujarat, India",395010,Surat,Gujarat,Government Laboratory
 "Unipath Speciality Laboratory Limited, Ahmedabad","Unipath Speciality Laboratory Limited,, 102, 1st Floor, Sanoma Plaza, Sheth Mangald Road, Opp. Parimal Garden, Ellisbridge, Ahmedabad, Gujarat 380006",380006,Ahmedabad,Gujarat,Private Laboratory
 "Supratech Micropath Laboratory & Research Institute Pvt. Ltd., Ahmedabad","Supratech Micropath Laboratory & Research Institute Pvt. Ltd., Neuberg Supratech, Ground Floor, Kedar Builiding, Opp. Krupa petrol Pump Parimal garden, Gujarat 380006",380006,Ahmedabad,Gujarat,Private Laboratory
 "S. N. GENELAB, Nanpura, Surat","S. N. GENELAB, 2nd Floor, President Plaza-A, Nanpura, Surat, Gujarat, India 395001",395001,Surat,Gujarat,Private Laboratory
@@ -59,6 +64,7 @@ Pt J.N.M. Medical College Raipur,"Pt. Jawahar Lal Nehru Memorial Medical College
 "BPS Government Medical College for Women, Sonipat","Bhagat Phool Singh Government Medical College, Ganaur - Gohana Rd, Khanpur Kalan, Haryana 131305",131305,Sonipat,Haryana,Government Laboratory
 "ESIC Medical College and Hospital, Faridabad","ESIC Medical College and Hospital, NH-3, NIT, Faridabad, Haryana",121012,Faridabad,Haryana,Government Laboratory
 "ICAR-National Research Centre on Equines, Hisar","ICAR-National Research Centre on Equines, Sirsa Road, Hisar , 125001, Haryana, India",125001,Hisar,Haryana,Government Laboratory
+"Kalpana Chawla Government Medical College and Hospital, Karnal","Kalpana Chawla Government Medical College and Hospital, Karnal, Haryana 132001, India",132001,Karnal,Haryana,Government Laboratory
 "Strand Life Sciences, Gurugram","Strand Life Sciences, A-17, Info Technology Park, Sector 34, Gurugram, Haryana 122001",122001,Gurugram,Haryana,Private Laboratory
 "SRL Limited, Gurugram","SRL Limited, GP 26 Sector 18, Gurugram, Haryana, India Pin 122015",122015,Gurugram,Haryana,Private Laboratory
 "Modern Diagnostic & research Centre Laboratory, Gurugram","Modern Diagnostic & research Centre Laboratory, 363-364/4, Jawahar Nagar, New Railway Road, Gurugram-122001, Haryana",122001,Gurugram,Haryana,Private Laboratory
@@ -67,6 +73,7 @@ Pt J.N.M. Medical College Raipur,"Pt. Jawahar Lal Nehru Memorial Medical College
 "PATHKIND Diagnostics Pvt. Ltd., Gurugram","PATHKIND Diagnostics Pvt. Ltd., Plot No. 55, 56, Service Lane, Phase IV, Udyog Vihar, Sector 18, Gurugram, Haryana 122015",122015,Gurugram,Haryana,Private Laboratory
 "Indira Gandhi Medical College, Shimla","Indira Gandhi Medical College, Ridge Sanjauli Rd, Lakkar Bazar, Shimla, Himachal Pradesh 171001",171001,Shimla,Himachal Pradesh,Government Laboratory
 "Dr. Rajendra Prasad Government Medical College, Tanda","Dr. Rajendra Prasad Government Medical College, Tanda Hospital Rd, Kangra, Himachal Pradesh 176001",176001,Kangra,Himachal Pradesh,Government Laboratory
+"Central Research Institute, Kasauli","Central Research Institute, Solan, Kasauli, Himachal Pradesh 173204",173204,Kasauli,Himachal Pradesh,Government Laboratory
 "Government Medical College, Jammu","Government Medical College, maheshpura, chowk, Bakshi Nagar, Jammu Cantonment, Jammu and Kashmir 180001",180001,Jammu,Jammu and Kashmir,Government Laboratory
 "Command Hospital, Udhampur","Command Hospital, Raghunathpura, Udhampur, Jammu and Kashmir 182101",182101,Udhampur,Jammu and Kashmir,Government Laboratory
 "Sher-i -Kashmir Institute of Medical Sciences, Srinagar","Sher - i-Kashmir Institute of Medical Sciences, SKIMS Main Rd, Soura, Srinagar, 190011",190011,Srinagar,Jammu and Kashmir,Government Laboratory
@@ -85,6 +92,7 @@ Command Hospital (Air Force) Bengaluru,"Command Hospital (Air Force) , Cambridge
 "Vijayanagar Institute of Medical Science, Bellary","Vijayanagar Institute of Medical Sciences, Contonment, Bellary 583104, Karnataka, India",583104,Bellary,Karnataka,Government Laboratory
 "Wenlock District Hospital, Mangalore","Wenlock District Hospital, Hampankatta, Mangalore, Karnataka 575001",575001,Mangalore,Karnataka,Government Laboratory
 "Karnataka Institute of Medical Sciences (K.I.M.S.), Hubballi","Karnataka Institute of Medical Sciences (K.I.M.S.), P. B Road, Vidyanagar, Hubli – 580022, Karnataka, India",580022,Hubli,Karnataka,Government Laboratory
+"ICMR-National Institute of Traditional Medicine (NITM), Belagavi","ICMR-National Institute of Traditional Medicine (NITM), Nehru Nagar, National Highway No. 4, Belagavi- 590010 Karnataka, India",590010,Belagavi,Karnataka,Government Laboratory
 "Neuberg Anand Reference Laboratory, Bengaluru","Neuberg Anand Reference Laboratory, Anand Tower, #54, bowring Hospital Road, Bengaluru, karnataka, India 560001",560001,Bengaluru,Karnataka,Private Laboratory
 "Cancyte Technologies Private Limited, Bengaluru","Cancyte Technologies Private Limited, Bengaluru, Karnataka 560018",560018,Bengaluru,Karnataka,Private Laboratory
 "Sakra World Hospital Laboratory Services, Bangalore","Sakra World Hospital Laboratory Services, 52/2 & 52/3, Deverabeesanahalli, Varthur Hobli, Bangalore-560103, Karnataka, India",560103,Bengaluru,Karnataka,Private Laboratory
@@ -122,6 +130,7 @@ Govt Medical College & Hospital Aurangabad,"Govt Medical College & Hospital, Uni
 "Govt. Medical College, Akola","Govt. Medical College, Ashok Vatika, District Collector Office Road, Near, Bhandaraj BK, Akola, Maharashtra 444001, India",444001,Mumbai,Maharashtra,Government Laboratory
 "National Centre for Cell Science (NCCS), Pune","National Centre for Cell Science, NCCS Complex, Savitribai Phule Pune University Campus, Ganeshkhind Road, Pune - 411007, Maharashtra State, India",411007,Pune,Maharashtra,Government Laboratory
 "ICMR-National Institute for Research in Reproductive Health, Mumbai","ICMR-National Institute for Research in Reproductive Health, Jehangir Merwanji Street, Parel, Mumbai 400012, Maharashtra, India",400012,Mumbai,Maharashtra,Government Laboratory
+"Rajiv Gandhi Medical College and Chhatrapati Shivaji Maharaj Hospital, Thane","Rajiv Gandhi Medical College and Chhatrapati Shivaji Maharaj Hospital, Thane - Belapur Rd, Kalwa West, Budhaji Nagar, Kalwa, Thane, Maharashtra 400605",400605,Thane,Maharashtra,Government Laboratory
 "Thyrocare Technologies Limited, Navi Mumbai","Thyrocare Technologies Limited, D-37/1 MIDC Turbhe Opp Sandoz, MIDC Industrial Area, Sanpada, Navi Mumbai, Maharashtra 400703",400703,Navi Mumbai,Maharashtra,Private Laboratory
 "Suburban Diagnostics (India) Pvt. Ltd., Mumbai","Suburban Diagnostics (India) Pvt. Ltd., 2nd Floor Aston, Shastri Nagar, Andheri (W), Mumbai, Maharashtra, India 400053",400053,Mumbai,Maharashtra,Private Laboratory
 "Metropolis Healthcare Ltd, Mumbai","Metropolis Healthcare Ltd, 4th Floor, Commerical Building 1-A, Kohinoor City Mall, Off LBS Marg, Vidyavihar (West), Mumbai, Maharashtra 400070",400070,Mumbai,Maharashtra,Private Laboratory
@@ -139,6 +148,8 @@ Govt Medical College & Hospital Aurangabad,"Govt Medical College & Hospital, Uni
 "Qualilife Diagnostics, Mumbai","Qualilife Diagnostics, Balaji Arcade, 1st Floor, 544/A, Above Janata Sahakari Bank, Netaji Subhash Road, Mulud – West, Mumbai-400080",400080,Mumbai,Maharashtra,Private Laboratory
 "SRL Diagnostics- Dr. Avinash Phadke (SRL Diagnostics Pvt Ltd), Mumbai","SRL Diagnostics- Dr. Avinash Phadke (SRL Diagnostics Pvt Ltd), Mahalaxmi Engineering Estate, 2nd floor, near k.j.khilnani high school, Mahim West, Mahim, Mumbai, Maharashtra 400016",400016,Mumbai,Maharashtra,Private Laboratory
 "Sunflower Laboratory And Diagnostic Center, Mumbai","Sunflower Laboratory And Diagnostic Center, Keshav Kunj, Marve Road, Malad West, Mumbai, Maharashtra 400064",400064,Mumbai,Maharashtra,Private Laboratory
+"Aditya Birla Memorial Hospital –Laboratory (A Unit of Aditya Birla Health Services Ltd.), Pune","Aditya Birla Memorial Hospital –Laboratory (A Unit of Aditya Birla Health Services Ltd.), Aditya Birla Hospital Marg, Chinchwad, Pune-411033, Maharashtra, India",411033,Pune,Maharashtra,Private Laboratory
+"Department of Laboratory Medicine – P.D. Hinduja National Hospital & Medical Research Centre, Mumbai","Department of Laboratory Medicine – P.D. Hinduja National Hospital & Medical Research Centre, Veer Savarkar Marg, Mahim (W), Mumbai- 400016, Maharashtra, India",400016,Mumbai,Maharashtra,Private Laboratory
 "All India Institute of Medical Sciences (AIIMS), Bhopal","All India Institute of Medical Sciences (AIIMS), AIIMS Campus Rd, Saket Nagar, Habib Ganj, Bhopal, Madhya Pradesh 462026",462026,Bhopal,Madhya Pradesh,Government Laboratory
 "National Institute for Research in Tribal Health, Jabalpur","National Institute for Research in Tribal Health, Nagpur Road, near NSCB Medical Collage, Dhanvantri Nagar, Shastri Nagar, Jabalpur, Madhya Pradesh 482003",482003,Jabalpur,Madhya Pradesh,Government Laboratory
 "Mahatma Gandhi Memorial Medical College, Indore","MGM Medical College, A.B.Road, Indore, 452001 Indore, Madhya Pradesh",452001,Indore,Madhya Pradesh,Government Laboratory
@@ -158,12 +169,14 @@ Govt Medical College & Hospital Aurangabad,"Govt Medical College & Hospital, Uni
 "SCB Medical College, Cuttack","SCB Medical College, PG Hostel, Cuttack, Odisha 753001",753001,Cuttack,Odisha,Government Laboratory
 "M.K.C.G Medical College, Berhampur","M.K.C.G Medical College, National Highway 59, Berhampur, District - Ganjam, Odisha. Pin: 760 004, India",760004,Berhampur,Odisha,Government Laboratory
 "Institute of Life Sciences (ILS), Bhubaneswar","Institute of Life Sciences (ILS), NALCO Square, Bhubaneswar 751023, Odisha, India",751023,Bhubaneswar,Odisha,Government Laboratory
+"Ispat General Hospital (IGH), Rourkela","Ispat General Hospital (IGH), Sector 19, Rourkela Steel Plant, Rourkela, 769011, Odisha, India",769011,Rourkela,Odisha,Government Laboratory
 "Department of Laboratory Services Apollo Hospitals, Bhubaneswar","Department of Laboratory Services Apollo Hospitals, Plot no 251, Sainik School Rd, Unit 15, Gajapati Nagar, Bhubaneswar, Odisha 751005",751005,Bhubaneswar,Odisha,Private Laboratory
 "Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER), Puducherry","JIPMER Campus Rd, Gorimedu, Dhanvantari Nagar, Puducherry, 605006",605006,Puducherry,Puducherry,Government Laboratory
 "Government Medical College, Amritsar","Government Medical College, Medical Enclave, Amritsar, Punjab 143001",143001,Amritsar,Punjab,Government Laboratory
 "Government Medical College, Patiala","Government Medical College, Sangrur Rd, New Lal Bagh Colony, Patiala, Punjab 147001",147001,Patiala,Punjab,Government Laboratory
 "Guru Gobind Singh Medical College & Hospital, Faridkot","Guru Gobind Singh Medical College & Hospital, Sadiq Road, Faridkot, Punjab 151203, India",151203,Faridkot,Punjab,Government Laboratory
 "Department of Microbiology, Dayanand Medical College and Hospital, Ludhiana","Department of Microbiology, Dayanand Medical College and Hospital, Civil Lines, Tagore Nagar, Ludhiana, Punjab 141001",141001,Ludhiana,Punjab,Private Laboratory
+"Tuli Diagnostic Centre, Amritsar","Tuli Diagnostic Centre, Majitha Road, Opp. Guru Nanak Dev Hospital, Amritsar-143001, ,Punjab, India",143001,Amritsar,Punjab,Private Laboratory
 "Sawai Man Singh (SMS) Medical College, Jaipur","SMS Medical College, Jawahar Lal Nehru Marg, Gangawal Park, Adarsh Nagar, Jaipur, Rajasthan 302004",302004,Jaipur,Rajasthan,Government Laboratory
 "Dr. Sampurnanand Medical College, Jodhpur","Dr. S.N. Medical College, Residency Road, Near Sriram Excellency Hotel, Sector-D, Shastri Nagar, opposite Petrol Pump, Jodhpur, Rajasthan 342003",342003,Jodhpur,Rajasthan,Government Laboratory
 "Jhalawar Medical College, Jhalawar","Jhalawar Medical College, N.H.-12, Kota Rd, Jhalawar, Rajasthan 326001",326001,Jhalawar,Rajasthan,Government Laboratory
@@ -189,6 +202,7 @@ Govt Medical College & Hospital Aurangabad,"Govt Medical College & Hospital, Uni
 "Government Vellore Medical College, Vellore","Government Vellore Medical College, Sapthalipuram, Pennathur, Adukkamparai, Tamil Nadu 632011",632011,Vellore,Tamil Nadu,Government Laboratory
 "State Public Health Laboratory, Chennai","State Public Health Laboratory, Chokkalingam Nagar, Teynampet, Chennai, Tamil Nadu 600086",600086,Chennai,Tamil Nadu,Government Laboratory
 "ICMR-National Institute of Epidemiology, Chennai","ICMR-National Institute of Epidemiology, Second Main Road, Tamil Nadu Housing Board, Ayapakkam, Near Ambattur, Chennai 600077, Tamil Nadu, India",600077,Chennai,Tamil Nadu,Government Laboratory
+"Kanyakumari Government Medical College, Nagercoil","Kanyakumari Government Medical College, Asaripallam, Nagercoil, Kanyakumari, Tamil Nadu, India-629201",629201,Nagercoil,Tamil Nadu,Government Laboratory
 "Christian Medical College, Vellore","Department of Clinical Virology, Christian Medical College, 9th Floor, ASHA Building, IDA Scudder Road, Christian Medical College, Vellore, Tamil Nadu, India Pin 632004",632004,Vellore,Tamil Nadu,Private Laboratory
 "Apollo Hospitals Enterprise Limited, Chennai","Department of Laboratory Services, Apollo Hospitals Enterprise Limited, 21 Greams Lane, Off Greams Road, Chennai Tamil Nadu Pin 600006",600006,Chennai,Tamil Nadu,Private Laboratory
 "Neuberg Ehrlich Laboratory Pvt Ltd, Chennai","Neuberg Ehrlich Laboratory Pvt Ltd, 46 & 48, Masilamani Road, Balaji Nagar, Royapettah, Chennai - 600 014, Tamil Nadu",600014,Chennai,Tamil Nadu,Private Laboratory
@@ -205,6 +219,7 @@ Govt Medical College & Hospital Aurangabad,"Govt Medical College & Hospital, Uni
 "Nizam's Institute Of Medical Sciences, Hyderabad","Punjagutta Rd, Punjagutta Market, Punjagutta, Hyderabad, Telangana 500082",500082,Hyderabad,Telangana,Government Laboratory
 "Institute of Preventive Medicine, Hyderabad","Institute of Preventive Medicine, Narayanaguda, Hyderabad, Telangana 500029",500029,Hyderabad,Telangana,Government Laboratory
 "CSIR - Centre for Cellular and Molecular Biology, Hyderabad","Centre for Cellular and Molecular Biology, Uppal Rd, IICT Colony, Habsiguda, Hyderabad, Telangana 500007",500007,Hyderabad,Telangana,Government Laboratory
+"Centre for DNA Fingerprinting and Diagnostics (CDFD), Hyderabad","Centre for DNA Fingerprinting and Diagnostics (CDFD), Inner Ring Road, Uppal, Hyderabad – 500039, Telangana, India",500039,Hyderabad,Telangana,Government Laboratory
 "Laboratory Services Apollo Hospitals, Hyderabad","Laboratory Services Apollo Hospitals Hyderabad, 6th Floor Health street Building, Jubilee Hills, Hyderabad 500096",500096,Hyderabad,Telangana,Private Laboratory
 "Vijaya Diagnostic Centre Pvt. Ltd, Hyderabad","Vijaya Diagnostic Centre Pvt. Ltd, 3-6-16 & 17, Street No.19, opp. Lane to Tanishq, Chandra Nagar, Himayatnagar, Hyderabad, Telangana 500029",500029,Hyderabad,Telangana,Private Laboratory
 "Vimta Labs Ltd., Hyderabad","Vimta Labs Ltd., Plot No. 142, Phase 2, IDA Cherlapally, Hyderabad, Telangana, India 500051",500051,Hyderabad,Telangana,Private Laboratory
@@ -244,9 +259,10 @@ Govt Medical College & Hospital Aurangabad,"Govt Medical College & Hospital, Uni
 "North Bengal Medical College, Siliguri","North Bengal Medical College, Sushruta Nagar, Siliguri, West Bengal 734012",734012,Siliguri,West Bengal,Government Laboratory
 "School of Tropical Medicine, Kolkata","School of Tropical Medicine, 108, Chittaranjan Avenue, Kolkata - 700073, West Bengal",700073,Kolkata,West Bengal,Government Laboratory
 "Malda Medical College, Malda","Malda Medical College, Dipak Rd, 3 No. Govt Colony, Uma Roy Sarani, Malda, West Bengal 732101",732101,Malda,West Bengal,Government Laboratory
-"Chittaranjan National Cancer Institute, Kolkata","Chittaranjan National Cancer Institute, 37, Shyama Prasad Mukherjee Rd, Bakul Bagan, Bhowanipore, Kolkata, West Bengal 700026",700026,Kolkata,West Bengal,Government Laboratory
+"Command Hospital (Eastern Command), Kolkata","Command Hospital (Eastern Command), Alipore, Kolkata, Pin- 700027, West Bengal, India",700027,Kolkata,West Bengal,Government Laboratory
 "Apollo Gleneagles Hospitals, Kolkata","Apollo Gleneagles Hospitals, 58, Canal Circular Road, Kolkata, West Bengal 700054",700054,Kolkata,West Bengal,Private Laboratory
 "Tata Medical Center, Kolkata","Department of Laboratory Sciences, Tata Medical Center, 14, MAR(E-W), DH Block(Newtown), Action Area I, Newtown, Kolkata, West Bengal 700160",700160,Kolkata,West Bengal,Private Laboratory
 "Laboratory Services, Peerless Hospitex Hospital & Research Center Limited, Kolkata","Laboratory Services, Peerless Hospitex Hospital & Research Center Limited, 360, Panchasayar, Kolkata, West Bengal 700094, India",700094,Kolkata,West Bengal,Private Laboratory
 "AMRI Hospitals, Department of Laboratory Medicine, Kolkata","AMRI Hospitals, Department of Laboratory Medicine, JC 16 & 17, Sector III, Salt Lake City, Kolkata, West Bengal -700098, India",700098,Kolkata,West Bengal,Private Laboratory
 "Suraksha Diagnostics Pvt. Ltd., Kolkata","Suraksha Diagnostics Pvt. Ltd., 12/1, Premises No. 02-0327, DG Block, Action Area 1D, Newtown, Kolkata, West Bengal 700156, India",700156,Kolkata,West Bengal,Private Laboratory
+"Dr. Lal PathLabs Ltd, Reference Laboratory, Kolkata","Dr. Lal PathLabs Ltd, Reference Laboratory, Plot No. CB-31/1, Premises No. 031-0199, Street No, 199 Action area IC, Newtown, Kolkata-700156, West Bengal",700156,Kolkata,West Bengal,Private Laboratory
