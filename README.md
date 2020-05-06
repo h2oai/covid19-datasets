@@ -20,6 +20,7 @@ Collection of open source datasets available for COVID-19 reasearch / analysis
 * [Hospital capacity at state level](https://docs.google.com/spreadsheets/d/1XUVyZF3X_4m72ztFnXZFvDKn5Yys1aKgu2Zmefd7wVo/edit#gid=0)
 * [Number of ICU beds in each county - Kaggle dataset](https://www.kaggle.com/jaimeblasco/icu-beds-by-county-in-the-us)
 * [County level demographics](https://github.com/JieYingWu/COVID-19_US_County-level_Summaries)
+* [State level Governement intervention data](https://www.kff.org/health-costs/issue-brief/state-data-and-policy-actions-to-address-coronavirus/)
 
 ### India
 * [COVID-19 cases in India - Kaggle dataset](https://www.kaggle.com/sudalairajkumar/covid19-in-india)
